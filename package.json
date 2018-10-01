@@ -1,0 +1,21 @@
+{
+  "name": "mention-replurker-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "author": "Jeremy Lam \"JLChnToZ\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.24",
+    "@types/node": "^10.11.3",
+    "typescript": "^3.1.1"
+  },
+  "dependencies": {
+    "plurk2": "^0.3.0",
+    "source-map-support": "^0.5.9",
+    "tslib": "^1.9.3"
+  }
+}
